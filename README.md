@@ -26,6 +26,7 @@ output(x+y);
 
 - First n prime numbers:
 
+```
 int n;
 input(n);
 int cur=2;
@@ -43,9 +44,11 @@ while(n>=0){
     }
     cur=cur+1;
 }
+```
 
 - Cool pattern:
 
+```
 int n;
 input(n);
 for(int i=0;i<n*2+3;i=i+1)
@@ -92,3 +95,4 @@ for(int i=n-1;i>=0;i=i-1){
 for(int i=0;i<n*2+3;i=i+1)
 	output(0);
 outputln(0);
+```
