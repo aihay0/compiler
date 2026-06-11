@@ -16,11 +16,13 @@ maintest.exe
 
 - Add 2 numbers:
 
+```
 int x;
 int y;
 input(x);
 input(y);
 output(x+y);
+```
 
 - First n prime numbers:
 
